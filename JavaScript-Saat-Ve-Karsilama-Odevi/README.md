@@ -5,5 +5,7 @@
 
 ### Javascript Saat ve Karşılama
 
+## Ödevin ön izlemesini [buradan yapabilirsiniz] ozanbayramm.github.io
+
 ## Ödev GIF
 ![Ödev GIF](/JavaScript-Saat-Ve-Karsilama-Odevi/img/js-odev-1.gif)
